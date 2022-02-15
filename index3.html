@@ -33,6 +33,18 @@
 </head>
 
 <body>
+    <div id="twitch-embed"></div>
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 360,
+        height: 200,
+        channel: "weathernewslive",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["twitter.com", "cards-frame.twitter.com", "tweetdeck.twitter.com" , "github.com"]
+      });
+    </script>
+                                                                                                 
 </body>
 
 </html>
