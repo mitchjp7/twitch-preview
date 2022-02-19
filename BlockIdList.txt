@@ -16,6 +16,10 @@ https://twitter.com/mitchjp7
 (3) Add new blocks(緑)をクリック
 (4) ブロックするIDを確認し、テキストボックスにIDをコピペ入力
 (5) Add users to blocklistをクリック
+
+または、https://link.twitch.tv/mySecurity
+プライバシー＞ブロックで1件ずつIDコピペしてブロック
+
 ***************************************************
 Twitch上で他のユーザーをブロックすると…
 自分のフォロワーからそのユーザーが外されます。
