@@ -11,10 +11,10 @@ https://twitter.com/mitchjp7
 いかなる損害も負いかねます。自己責任でお使いください。
 サポートはできませんので分からない人は使わないでね。
 ***************************************************
-(1) 外部サイト https://twitch-tools.rootonline.de/blocklist_manager.php
-(2) Login via Twitchで認証
+(1) 外部サイトにアクセス https://twitch-tools.rootonline.de/blocklist_manager.php
+(2) Login via Twitchで認証ログイン
 (3) Add new blocks(緑)をクリック
-(4) ブロックするIDを確認し、テキストボックスにID入力
+(4) ブロックするIDを確認し、テキストボックスにIDをコピペ入力
 (5) Add users to blocklistをクリック
 ***************************************************
 Twitch上で他のユーザーをブロックすると…
