@@ -1,0 +1,37 @@
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::: 2022/2/19 
+::::: ブロックしたらいいと思うIDリスト
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+配信してないけど、よかったら承認欲求満たすためにフォローしてね<3
+https://www.twitch.tv/mitch_jp
+ご意見ありましたらDMで
+https://twitter.com/mitchjp7
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+石油王かもしれないし迷惑IDかもしれない候補リスト。
+いかなる損害も負いかねます。自己責任でお使いください。
+サポートはできませんので分からない人は使わないでね。
+***************************************************
+(1) 外部サイト https://twitch-tools.rootonline.de/blocklist_manager.php
+(2) Login via Twitchで認証
+(3) Add new blocks(緑)をクリック
+(4) ブロックするIDを確認し、テキストボックスにID入力
+(5) Add users to blocklistをクリック
+***************************************************
+Twitch上で他のユーザーをブロックすると…
+自分のフォロワーからそのユーザーが外されます。
+自分のフレンドリストからそのユーザーが外されます。
+今後、そのユーザーからフォローされたりフレンドに追加されなくなります。
+https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja#BlockWhispersandMessagesfromStrangers
+***************************************************
+
+hotaru_yariman1
+hotaru_himitu
+hotaru_manko_10005
+hotaruhimitu
+hotaru_no_himitu
+hotaruyalimanko
+hotaruyarimanhimitu
+hotaru_yariman__
+omankoippainakadasi
+hotaru120
+
