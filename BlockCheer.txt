@@ -1,0 +1,45 @@
+Twitch 
+ブロックする言葉に入れて、cheer受取拒否
+
+外部サイト　https://twitch-tools.rootonline.de/blocked_terms_manager.php
+Login via twitch でログイン認証
+Add new terms （緑）ボタンを押す
+テキストボックスにブロックする言葉をコピペ
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<注意 以下の文字列で始まる単語・エモートがチャットできなることを理解してください。>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Cheer*
+Anon*
+BibleThump*
+cheerwhal*
+cheerwhal*
+Corgo*
+uni*
+ShowLove*
+Party*
+SeemsGood*
+Pride*
+Kappa*
+FrankerZ*
+HeyGuys*
+DansGame*
+EleGiggle*
+TriHard*
+Kreygasm*
+4Head*
+SwiftRage*
+NotLikeThis*
+FailFish*
+VoHiYo*
+PJSalt*
+MrDestructoid*
+bday*
+RIPCheer*
+Shamrock*
+BitBoss*
+Holidaycheer*
+StreamLabs*
+Goal*
+Muxy*
+DoodleCheer*
