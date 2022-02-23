@@ -27,6 +27,9 @@ Twitch上で他のユーザーをブロックすると…
 今後、そのユーザーからフォローされたりフレンドに追加されなくなります。
 https://help.twitch.tv/s/article/how-to-manage-harassment-in-chat?language=ja#BlockWhispersandMessagesfromStrangers
 ***************************************************
+2/23更新
+roygbiv128
+
 2/22更新
 waters_twitchjp
 hatarumangonagatashi
