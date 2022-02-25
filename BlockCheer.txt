@@ -1,5 +1,6 @@
 Twitch 
 ブロックする言葉に入れて、cheer受取拒否
+使用により生じたいかなる損害の責も負いません
 
 外部サイト　https://twitch-tools.rootonline.de/blocked_terms_manager.php
 Login via twitch でログイン認証
